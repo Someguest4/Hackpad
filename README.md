@@ -1,11 +1,13 @@
-<h1>My Hackpad:</h1>
+<h1>MAC-4:</h1> 
+
+(like a CounterStrike MAC-10 but it has 4 keys to quick buy weapons)
 
 By Andrei Ermolaev
 <img width="1473" height="983" alt="Screenshot 2025-12-07 110330" src="https://github.com/user-attachments/assets/fd7a6279-c812-4d6a-844c-07ce2f37584f" />
 
 <h2>Inspiration:</h2>
 
-I saw an Instagram Reel on my FYP by willdoesbuild that told me about the Hack Club Blueprint Project. I decided to try it out. I hope I get approved.
+I saw an Instagram Reel on my FYP by willdoesbuild that told me about the Hack Club Blueprint Project. I decided to try it out. *(I hope I get approved.)*
 
 <h2>Challenges:</h2>
 
